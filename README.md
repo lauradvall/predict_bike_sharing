@@ -114,3 +114,4 @@ Contact
 	
 For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
 
+For further information about the project, contact Laura Dubreuil (lauradvall@gmail.com)
