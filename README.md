@@ -1,3 +1,6 @@
+Predict bike sharing patterns
+=========================================
+
 This is a basic two-layer fully connected network that predicts daily bike rental ridership from a dataset of features such as day, hour, weather, wind, etc.
 
 Files
