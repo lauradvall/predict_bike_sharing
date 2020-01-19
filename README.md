@@ -14,7 +14,7 @@ Files
 - assets foler:
 	- neural_network.png: graph of the neural network used by Predict_bike_sharing.ipynb
 
-Dependences
+Dependencies
 =========================================
 The following packages need to be installed in your environment in order to run the Predict_bike_sharing.ipynb notebook:
 - Python 3.7 
