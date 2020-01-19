@@ -1,16 +1,14 @@
-This is a basic two-layer network that predicts daily bike rental ridership from a dataset of features such as day, hour, weather, wind, etc. This project was part of the Deep Learning Udacity's nanodegree and it's just meant to serve as a proof of concept to demonstrate the feasibility of how fully connected networks can be used to predict bike sharing patterns.
+This is a basic two-layer fully connected network that predicts daily bike rental ridership from a dataset of features such as day, hour, weather, wind, etc.
 
 Files
 =========================================
 - Predict_bike_sharing.ipynb: notebook containing an example of how to load the dataset, train the network and make predictions
 - functions.py: the code containing the network structure and hyperparameters
-
-Bike-Sharing-Dataset folder:
+- Bike-Sharing-Dataset folder:
 	- Readme.txt
 	- hour.csv : bike sharing counts aggregated on hourly basis. Records: 17379 hours
 	- day.csv - bike sharing counts aggregated on daily basis. Records: 731 days
-
-assets foler:
+- assets foler:
 	- neural_network.png: graph of the neural network used by Predict_bike_sharing.ipynb
 
 
